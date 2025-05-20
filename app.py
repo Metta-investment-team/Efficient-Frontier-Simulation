@@ -32,7 +32,7 @@ st.set_page_config(
 st.markdown("""
     <style>
     .main {
-        background-color: #f5f7f9;
+        background-color: #ffffff;
     }
     .stApp {
         max-width: 1200px;
